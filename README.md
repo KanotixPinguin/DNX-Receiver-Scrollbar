@@ -10,6 +10,12 @@
 > - **Reines Hobbyprojekt – frei nutzbar, änderbar & verbreitbar:** Dieses Projekt entsteht ausschließlich aus reinem Hobby und Interesse am gemeinsamen Funk-/SDR-Hobby. Es steht ausdrücklich frei zur Verfügung und darf frei genutzt, weiterverbreitet, verändert und verbessert werden.
 <!-- DNX-DISCLAIMER-END -->
 
+<!-- DNX-PREVIEW-START -->
+## Live-Vorschau
+
+![Live-Vorschau — DNX Receiver Scrollbar](docs/preview.png)
+<!-- DNX-PREVIEW-END -->
+
 Sichtbare grüne Scrollleiste für umfangreiche OpenWebRX-Receiver-Panels. Begrenzt das Panel auf die Bildschirmhöhe, ermöglicht Mausrad-/Touch-Scrollen, verhindert horizontales Scrollen und verwendet eine leuchtende grüne Scrollspur mit Hovereffekt.
 
 ## Installation
