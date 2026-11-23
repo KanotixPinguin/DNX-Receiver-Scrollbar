@@ -38,3 +38,11 @@ Backups: `/opt/dnx-receiver-scrollbar-backups`.
 ## Hinweis
 
 Rein privates, unabhängiges Hobbyprojekt. Kein offizielles OpenWebRX-/OpenWebRX+-Projekt oder Plugin. Nutzung auf eigene Gefahr; soweit gesetzlich zulässig keine Haftung. Vorher Backups erstellen und auf einem Testsystem prüfen.
+
+---
+
+## Verbindungen im DNX-Ökosystem
+
+![DNX Gesamtarchitektur & Verbindungen](docs/dnx-architektur-verbindungen.png)
+
+* **Verbindung zu `DNX-Styler` & `DNX-Receiver-Tool-Button-Bar`:** Macht bei vielen aktiven Modulen (bis zu `26` `TOOL_DEFS`-Schaltern, Pegel-, S-Meter-, Zeitachse- und Remote-VIEW-Steuerelementen) das Receiver-Panel sauber scrollbar und passt sich dem Styler-Theme an.
